@@ -20,8 +20,8 @@ object SparkSQLDemo {
 
 
     import sparkSession.implicits._
-    val empDF = sparkSession.createDataFrame(empList)//("name", "age", "salary", "email", "dept")
-    empDF.show
+    //val empDF = sparkSession.createDataFrame(empList)//("name", "age", "salary", "email", "dept")
+    //empDF.show
 
 
   }
