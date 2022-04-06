@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/wordcountsparkdemo_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/CustomerAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCountDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BroadCastDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/BroadCastDemo$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCountDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountDemo1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCountDemo1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BroadCastDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/BroadCastDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CustomerAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/CustomerAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Department$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/Department$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Department.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/Department.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCountDemo1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/hduser/Desktop/WordCountSparkDemo/target/scala-2.12/classes/WordCountDemo1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
