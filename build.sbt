@@ -31,6 +31,18 @@ libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "3.3.1"
 libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "3.3.1"
 */
 
+lazy val root =(project in file(".")).
+  settings(
+    name := "myProject",
+    version := "1.0",
+    scalaVersion :="2.13.1",
+    mainClass in Compile :=Some("HbaseToSpark")
+  )
+assemblyMergeStrategy in assembly := {
+  case PathList("META-INF",xs @ _*) => MergeStrategy.discard // Bumf
+  case x => MergeStrategy.first
+}
+
 
 
 
